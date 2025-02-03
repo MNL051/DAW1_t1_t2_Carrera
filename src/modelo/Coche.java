@@ -17,7 +17,7 @@ public class Coche {
     }
 
     public void mostrarDatos(){
-        System.out.println("Nombre: " + nombre);
+        System.out.println("nombre: " + nombre);
         System.out.println("marca = " + marca);
         System.out.println("matricula = " + matricula);
         System.out.println("cc = " + cc);
