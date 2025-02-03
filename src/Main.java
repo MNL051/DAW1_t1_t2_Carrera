@@ -1,7 +1,15 @@
+import modelo.Coche;
+
 public class Main {
     public static void main (String[] args){
-        //prueba push en github
-        //prueba 2 de push en github en rama main
+        //constructor de prueba
+        Coche coche1 = new Coche("Mercedes","popeyes",5555,500,200, 300,30000);
+
+        coche1.mostrarDatos();
+
+
+
+
 
     }
 }
